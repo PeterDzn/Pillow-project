@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HealthData locale="en_US">
+
+    <Record type="HKCategoryTypeIdentifierSleepAnalysis"
+            sourceName="Apple Watch"
+            startDate="2026-05-01 23:05:00"
+            endDate="2026-05-02 07:20:00"
+            value="HKCategoryValueSleepAnalysisAsleep"/>
+
+    <Record type="HKCategoryTypeIdentifierSleepAnalysis"
+            sourceName="Apple Watch"
+            startDate="2026-05-02 02:00:00"
+            endDate="2026-05-02 02:20:00"
+            value="HKCategoryValueSleepAnalysisAwake"/>
+
+</HealthData>
